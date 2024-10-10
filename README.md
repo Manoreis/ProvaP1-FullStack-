@@ -4,3 +4,6 @@ wpress, MonoDB, UUID, IWT, banco relacional e Socket.io. A aplicaçáo deverá p
 criaçáo, autenticaçáo e gerenciamento de usuários e salas de reuniáo, bem como o
 estabelecimento de comunicaçáo em tempo real entre os usuários conectados. Apenas
 usuários autenticados (logados) poderáo acessar ou criar salas de reuniáo;
+
+https://youtu.be/OQaDT9PTjHE
+
